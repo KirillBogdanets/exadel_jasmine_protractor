@@ -1,0 +1,34 @@
+[
+    {
+        "Element": "Services",
+        "Table": "ServicesItems",
+        "TableItems": 6,
+        "HeaderDuplicate": "ServicesButton",
+        "HeaderDuplicateItems": "ServicesDropdownItems",
+        "NumberOfItems": 2
+    },
+    {
+        "Element": "OurWork",
+        "Table": "OurWorkItems",
+        "TableItems": 6,
+        "HeaderDuplicate": "OurWorkButton",
+        "HeaderDuplicateItems": "OurWorkDropdownItems",
+        "NumberOfItems": 5
+    },
+    {
+        "Element": "About",
+        "Table": "AboutItems",
+        "TableItems": 4,
+        "HeaderDuplicate": "AboutButton",
+        "HeaderDuplicateItems": "AboutDropdownItems",
+        "NumberOfItems": 3
+    },
+    {
+        "Element": "News",
+        "Table": "NewsItems",
+        "TableItems": 2,
+        "HeaderDuplicate": "NewsButton",
+        "HeaderDuplicateItems": "NewsDropdownItems",
+        "NumberOfItems": 1
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Block": "ExadelBlock",
+        "BlockElements": [{"EC": "viewport", "Element": "ExadelInfo"}, {"EC": "viewport", "Element": "ClientsFeedBacksLink"}]
+    },
+    {
+        "Block": "ServicesBlock",
+        "BlockElements": [{"EC": "viewport", "Element": "ViewAllServisesLink"}, {"EC": "viewport", "Element": "#1 of ServiceImages"}]
+    },
+    {
+        "Block": "NewsBlock",
+        "BlockElements": [{"EC": "viewport", "Element": "BlogColumn"}, {"EC": "viewport", "Element": "LocationColumn"}, {"EC": "clickable", "Element": "ReadMoreButton"}, {"EC": "clickable", "Element": "SeeOurLocationButton"}]
+    },
+    {
+        "Block": "OurWorkBlock",
+        "BlockElements": [{"EC": "viewport", "Element": "OurWorkBlockClientsFeedBacksLink"}, {"EC": "clickable", "Element": "OurWorkBlockClientsFeedBacksLink"}]
+    },
+    {
+        "Block": "ClientslogoBlock",
+        "BlockElements": [{"EC": "viewport", "Element": "#1 of ClientsLogos"}]
+    },
+    {
+        "Block": "ContactUsBlock",
+        "BlockElements": [{"EC": "viewport", "Element": "ContactUsLink"}, {"EC": "clickable", "Element": "ContactUsLink"}]
+    }
+]
