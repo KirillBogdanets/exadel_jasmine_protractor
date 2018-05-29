@@ -23,7 +23,7 @@ exports.config = {
     // }],
 
     specs: [
-        `jasmine_e2e/${yargs.tag || "*/*.js"}`
+        `jasmine_e2e/${yargs.spec || "*/*.js"}`
     ],
     // restartBrowserBetweenTests: true,
     onPrepare: function () {
