@@ -18,8 +18,7 @@ exports.config = {
     //     browserName: 'chrome',
     //     version: "66.0.3359.139"
     // }, {
-    //     browserName: 'internet explorer',
-    //     'ignoreProtectedModeSettings': true
+    //     browserName: 'firefox'
     // }],
 
     specs: [

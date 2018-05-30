@@ -26,7 +26,7 @@
     {
         "Element": "News",
         "Table": "NewsItems",
-        "TableItems": 2,
+        "TableItems": 3,
         "HeaderDuplicate": "NewsButton",
         "HeaderDuplicateItems": "NewsDropdownItems",
         "NumberOfItems": 1
