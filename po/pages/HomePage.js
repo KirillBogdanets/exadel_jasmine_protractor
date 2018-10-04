@@ -8,10 +8,10 @@ class HomePage extends BasePage{
 
         this.ExadelBlock = element(by.css(".et_pb_section:nth-child(1)"));
         this.ExadelInfo = this.ExadelBlock.element(by.css('.header-content p'));
-        this.ClientsFeedBacksLink = this.ExadelBlock.element(by.css('.et_pb_more_button'));
+        this.SpeakWithExpertsLink = this.ExadelBlock.element(by.css('.et_pb_more_button'));
 
         this.ServicesBlock = element(by.css(".et_pb_section:nth-child(2)"));
-        this.ViewAllServisesLink = this.ServicesBlock.element(by.css('.our-services-btn'));
+        this.ViewAllServisesLink = this.ServicesBlock.element(by.css(' '));
         this.ServiceImages = this.ServicesBlock.$$('.et_pb_blurb_content');
 
         this.NewsBlock = element(by.css(".et_pb_section:nth-child(3)"));

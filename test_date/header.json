@@ -3,9 +3,9 @@
         "Element": "HeaderLogo"
     },
     {
-        "Element": "ServicesButton",
-        "Dropdown": "ServicesDropdownItems",
-        "DropdownItems": 6
+        "Element": "SolutionButton",
+        "Dropdown": "SolutionssDropdownItems",
+        "DropdownItems": 9
     },
     {
         "Element": "OurWorkButton",
@@ -20,7 +20,7 @@
     {
         "Element": "NewsButton",
         "Dropdown": "NewsDropdownItems",
-        "DropdownItems": 2
+        "DropdownItems": 3
     },
     {
         "Element": "ContactButton"

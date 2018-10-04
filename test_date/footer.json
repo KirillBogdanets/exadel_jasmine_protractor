@@ -1,10 +1,10 @@
 [
     {
-        "Element": "Services",
-        "Table": "ServicesItems",
-        "TableItems": 6,
-        "HeaderDuplicate": "ServicesButton",
-        "HeaderDuplicateItems": "ServicesDropdownItems",
+        "Element": "Solutions",
+        "Table": "SolutionsItems",
+        "TableItems": 9,
+        "HeaderDuplicate": "SolutionButton",
+        "HeaderDuplicateItems": "SolutionssDropdownItems",
         "NumberOfItems": 2
     },
     {
